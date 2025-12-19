@@ -7,7 +7,7 @@
       "colors": {
         "bg-layer-0": "#000000",
         "bg-layer-1": "#121212",
-        "bg-layer-2": "#141A23",
+        "bg-layer-2": "#121212",
         "bg-layer-3": "#1C1C1C",
         "bg-layer-4": "#424952",
         "bg-blackout": "#121212B3",
@@ -29,8 +29,8 @@
         "text-warning": "#F4CE46",
         "text-info": "#95837A",
         "text-success": "#95837A",
-        "text-accent-primary": "#95837A",
-        "text-accent-secondary": "#95837A",
+        "text-accent-primary": "#F3F4F6",
+        "text-accent-secondary": "#F3F4F6",
         "text-accent-tertiary": "#A972FF",
 
         "stroke-primary": "#424952",
